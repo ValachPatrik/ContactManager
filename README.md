@@ -7,3 +7,5 @@ Contacts in the list can be sorted. Either in ascending or descending order inte
 It is also possible to simply search for a contact with the search window.
 The save file can be moddified while running the program and also new contacts can be imported from a supported json file.
 The program is designed to be unbreakable by the user in any shape of inputs
+
+<img src="https://user-images.githubusercontent.com/82080194/226586804-b6baf6d2-0699-4855-92ce-37d04f9808d1.png" width=40% height=40%>
